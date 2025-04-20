@@ -1,0 +1,18 @@
+Kernel modules -> Wireless Drivers -> kmod-rtl8821cu
+Kernel modules -> Wireless Drivers -> kmod-cfg80211
+Kernel modules -> Block Device -> kmod-scsi-core
+Kernel modules -> USB Support -> kmod-usb-core
+Kernel modules -> USB Support -> kmod-usb-net
+Kernel modules -> USB Support -> kmod-usb-storage
+Kernel modules -> USB Support -> kmod-usb-storage-extras
+Kernel modules -> USB Support -> kmod-usb-storage-uas
+Kernel modules -> USB Support -> kmod-usb2
+Kernel modules -> USB Support -> kmod-usb2-pci
+Kernel modules -> USB Support -> kmod-usb3
+Kernel modules -> USB Support -> kmod-usb-ohci
+Kernel modules -> USB Support -> kmod-usb-uhci
+Kernel modules -> USB Support -> kmod-usb-wdm
+Network -> WirelessAPD -> hostapd
+Network -> WirelessAPD -> wpa-supplicant
+
+https://www.right.com.cn/forum/thread-5242571-1-1.html
